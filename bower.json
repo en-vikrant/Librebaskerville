@@ -1,0 +1,17 @@
+{
+    "name": "librebaskerville-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Impallari Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/librebaskerville-bower.git"
+    },
+    "description": "Libre Baskerville font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
